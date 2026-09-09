@@ -122,6 +122,12 @@ docker push kkurama/todoapp:2.0.0
 docker exec -it todoapp python manage.py createsuperuser
 ```
 
+## Скріншот запущеного застосунку
+
+Термінал з обома контейнерами в статусі `Up` і працюючим застосунком:
+
+https://docs.google.com/document/d/1EXDnBNW08rIOdmQQcn3roLloZ2Tgy4GCQPYg3kCbXrk/edit
+
 ## 4. Тести
 
 ```bash
